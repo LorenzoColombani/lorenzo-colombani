@@ -174,6 +174,9 @@ Eight public instruments. The instruments are the argument.
 
 ## Roles
 
+- **Independent practice — IT & AI consulting, own software products, and
+  digital learning content** (Einzelunternehmen, registered Hannover,
+  2026–present).
 - **Founder, Make Working Fun SAS** (2022–2025; company dormant) — registered
   French company (RCS Nanterre 917 652 745). Delivered negotiation training,
   mediation, and AI-enabled learning design; the site remains the work
