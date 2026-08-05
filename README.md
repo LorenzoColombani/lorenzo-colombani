@@ -136,8 +136,9 @@ Eight public instruments. The instruments are the argument.
   thesis, written early. [thplus.org](https://thplus.org/reguler-le-transhumanisme-droit-dur-ou-rse/)
 - **Brainstorm N°1 — *Le vieillissement est-il une maladie ?*** (2019, 62 pp.) —
   edited legal volume; editor-in-chief. Featured by the [Fulbright
-  Commission](https://fulbright-france.org/en/node/627); held in the
-  [Penn Law School library](https://lola.law.upenn.edu/record=b805615).
+  Commission](https://fulbright-france.org/en/node/627); acquired by Penn's
+  Biddle Law Library (its legacy catalog record did not survive Penn's 2021
+  catalog migration).
   [PDF](https://brainstorm.thplus.org/wp-content/uploads/2019/03/Brainstorm-Le-vieillissement-est-il-une-maladie1.pdf)
 - **Why is France So Conflictive?** (2019; revised edition 2025) —
   sole-authored negotiation research: a diagnosis of French negotiating
