@@ -153,9 +153,10 @@ Eight public instruments. The instruments are the argument.
 
 ## Roles
 
-- **Founder & Principal Consultant, Make Working Fun SAS** (2022–present) —
-  registered French company (RCS Nanterre 917 652 745). Negotiation training,
-  mediation, AI-enabled learning design. [makeworkingfun.com](https://www.makeworkingfun.com)
+- **Founder, Make Working Fun SAS** (2022–2025; company dormant) — registered
+  French company (RCS Nanterre 917 652 745). Delivered negotiation training,
+  mediation, and AI-enabled learning design; the site remains the work
+  archive. [makeworkingfun.com](https://www.makeworkingfun.com)
 - **Senior Instructor, Getting More** — one of two Senior Instructors of
   Stuart Diamond's negotiation method, alongside the founder.
 - **Paris Forum Leader, OpenAI Forum** (2025–2026) — launched the Forum's
@@ -172,6 +173,9 @@ Eight public instruments. The instruments are the argument.
 - **Co-founder & CEO, ThinkH+** (2015–2019) — legal-tech think-do tank
   incubated at the Sciences Po Law Clinic, supported by L'Oréal's Chief Ethics
   Officer; produced the Villani-mission report above.
+- **Board Member & Head of Business and Non-Profit Engagement, Fulbright
+  Alumni Association France** (2019–2025) —
+  [fulbrightalumni.fr](https://www.fulbrightalumni.fr/)
 - **Founding President, Penn Law Alumni Club of France** (2024–present) ·
   **Member, Mediators Beyond Borders International** (2016–present).
 
@@ -229,7 +233,7 @@ resume or LinkedIn export is intentional.
 |---|---|
 | **Entity document** | github.com/LorenzoColombani/lorenzo-colombani *(this page)* |
 | **GitHub front door** | [github.com/LorenzoColombani](https://github.com/LorenzoColombani) |
-| **Business** | [makeworkingfun.com](https://www.makeworkingfun.com) |
+| **Work archive** | [makeworkingfun.com](https://www.makeworkingfun.com) |
 | **Portfolio** | [lorenzocolombani.github.io](https://lorenzocolombani.github.io) |
 | **Writing** | [medium.com/@lorenzocolombani](https://medium.com/@lorenzocolombani) |
 | **LinkedIn** | [linkedin.com/in/locolombani](https://www.linkedin.com/in/locolombani/) |
