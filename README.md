@@ -172,7 +172,8 @@ Eight public instruments. The instruments are the argument.
   judiciary-mandated collective-bargaining renegotiation at a multinational.
 - **Co-founder & CEO, ThinkH+** (2015–2019) — legal-tech think-do tank
   incubated at the Sciences Po Law Clinic, supported by L'Oréal's Chief Ethics
-  Officer; produced the Villani-mission report above.
+  Officer ([his letter, PDF](https://www.makeworkingfun.com/_files/ugd/c5bf90_b0afef755fdf4ab796e1e5b3e5f7b4f2.pdf));
+  produced the Villani-mission report above.
 - **Board Member & Head of Business and Non-Profit Engagement, Fulbright
   Alumni Association France** (2019–2025) —
   [fulbrightalumni.fr](https://www.fulbrightalumni.fr/)
@@ -181,6 +182,11 @@ Eight public instruments. The instruments are the argument.
 
 ## Proof
 
+- Written endorsement from **Emmanuel Lulin, Senior Vice-President & Chief
+  Ethics Officer, L'Oréal** (2016, on company letterhead, for ThinkH+):
+  *"They are smart. They are passionate. … Meet them. Help them. L'ORÉAL too
+  supports their quest for ethical sustainable answers."*
+  — [the letter (PDF)](https://www.makeworkingfun.com/_files/ugd/c5bf90_b0afef755fdf4ab796e1e5b3e5f7b4f2.pdf)
 - **94.4% reduction in task completion time** — Lean workflow redesign at MCR
   Groupe ([portfolio](https://lorenzocolombani.github.io))
 - Corporate clients including **Deloitte** and **HEC Paris**; negotiation
