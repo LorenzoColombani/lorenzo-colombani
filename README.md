@@ -59,7 +59,10 @@ Six named methods, each practised and documented:
 2. **Evidence-Gated Agent Governance.** Running AI agents as a supervised
    workforce under a versioned constitution: permission fencing, capability
    ladders with mechanical fallbacks, separation of powers, and review that
-   expects to find defects. ~11 weeks of continuous daily production.
+   expects to find defects. ~11 weeks of continuous daily production —
+   personal projects, on his own machine and own time; one measured 29-day
+   window (Jul–Aug 2026) logged 120 sessions, 449 hours of supervised agent
+   work, and 350 commits.
 3. **The Phase-Zero Premise Check.** Before any engagement work: attempt to
    falsify the commissioning assumption, gated on a human go/no-go. Practised
    three documented times; one engagement's research found its own premise
