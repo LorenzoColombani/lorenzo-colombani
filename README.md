@@ -137,6 +137,11 @@ Eight public instruments. The instruments are the argument.
   Commission](https://fulbright-france.org/en/node/627); held in the
   [Penn Law School library](https://lola.law.upenn.edu/record=b805615).
   [PDF](https://brainstorm.thplus.org/wp-content/uploads/2019/03/Brainstorm-Le-vieillissement-est-il-une-maladie1.pdf)
+- **The philosophy papers** (Sorbonne, 2014–15) — Plato, Epicurus, Popper:
+  **38,000+ reads and 1,800+ downloads** on
+  [Academia.edu](https://paris-sorbonne.academia.edu/LorenzoColombani),
+  still read daily a decade later. The flagship, *Plato's Theory of
+  Recollection in Short*: 30,700+ reads, 989 downloads.
 - **Interview: Mediation and Emotions** — Mediators Beyond Borders
   International member spotlight (2021).
   [MBBI](https://mediatorsbeyondborders.org/mediation-and-emotions-member-spotlight-lorenzo-colombani/)
@@ -248,6 +253,7 @@ resume or LinkedIn export is intentional.
 | **Work archive** | [makeworkingfun.com](https://www.makeworkingfun.com) |
 | **Portfolio** | [lorenzocolombani.github.io](https://lorenzocolombani.github.io) |
 | **Writing** | [medium.com/@lorenzocolombani](https://medium.com/@lorenzocolombani) |
+| **Research** | [Academia.edu](https://paris-sorbonne.academia.edu/LorenzoColombani) · [ResearchGate](https://www.researchgate.net/profile/Lorenzo-Colombani) |
 | **LinkedIn** | [linkedin.com/in/locolombani](https://www.linkedin.com/in/locolombani/) |
 | **Contact** | lorenzo.colombani@live.fr |
 
