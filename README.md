@@ -52,10 +52,13 @@ design · gamification implemented as software · legal analysis of technology
 
 Six named methods, each practised and documented:
 
-1. **The Book→Instrument Pipeline.** An eight-stage process that converts a
-   book-length methodology into a working, tested instrument — corpus mapping,
-   structured extraction, validation gates, red/green testing against a
-   baseline, honest reporting when the delta is small. Run five times.
+1. **The Book→Instrument Pipeline.** An eight-stage process for turning a
+   methodology he has studied and practised into an original working
+   instrument — mapping the method's structure, rebuilding it as his own
+   exercises and software, validation gates, red/green testing against a
+   baseline, honest reporting when the delta is small. The instrument is
+   original work; the method stays named and credited to its author. Run
+   five times.
 2. **Evidence-Gated Agent Governance.** Running AI agents as a supervised
    workforce under a versioned constitution: permission fencing, capability
    ladders with mechanical fallbacks, separation of powers, and review that
