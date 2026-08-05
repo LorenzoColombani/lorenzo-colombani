@@ -196,7 +196,7 @@ Eight public instruments. The instruments are the argument.
   produced the Villani-mission report above.
 - **Board Member & Head of Business and Non-Profit Engagement, Fulbright
   Alumni Association France** (2019–2025) —
-  [fulbrightalumni.fr](https://www.fulbrightalumni.fr/)
+  [site archived](https://web.archive.org/web/20260422121746/https://www.fulbrightalumni.fr/)
 - **Founding President, Penn Law Alumni Club of France** (2024–present) ·
   **Member, Mediators Beyond Borders International** (2016–present).
 
