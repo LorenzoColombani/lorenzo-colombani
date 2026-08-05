@@ -108,8 +108,10 @@ Eight public instruments. The instruments are the argument.
   [PDF](https://thplus.org/landing/wp-content/uploads/2018/04/ThinkH-Enjeux-juridiques-de-lIA.pdf)
 - **Responsabilité sociale des entreprises : enjeux globaux et technologiques** —
   *Revue française de gestion* 2017/8, with D. Restrepo Amariles (HEC Paris) &
-  A. Van Waeyenberge. Peer-reviewed, free full text.
+  A. Van Waeyenberge. Peer-reviewed, free full text; catalogued by the INSP
+  (ex-ENA), France's school for senior civil servants.
   [DOI 10.3166/rfg.2018.00205](https://doi.org/10.3166/rfg.2018.00205)
+  · [INSP library record](https://documentation.insp.gouv.fr/insp/doc/CAIRN/_b64_b2FpLWNhaXJuLmluZm8tUkZHXzI2OV8wMTYx/responsabilite-sociale-des-entreprises?_lg=fr-FR)
 - **Le déséquilibre significatif dans les contrats commerciaux : nouvel outil
   de lutte contre les GAFA** — *AJ Contrat* (Dalloz), Nov 2018, pp. 471–476 —
   on the doctrine France used against Amazon, Apple and Google.
