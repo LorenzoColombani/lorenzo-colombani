@@ -78,7 +78,7 @@ Six named methods, each practised and documented:
 
 ## Instruments (public, free, live)
 
-Seven public instruments. The instruments are the argument.
+Eight public instruments. The instruments are the argument.
 
 | Instrument | What it is |
 |---|---|
@@ -88,6 +88,7 @@ Seven public instruments. The instruments are the argument.
 | [tone-illusion](https://lorenzocolombani.github.io/tone-illusion/) | Interactive demo of the research on why text tone is misread (Kruger, Epley et al.). |
 | [octalysis-explorer](https://lorenzocolombani.github.io/octalysis-explorer/) | Yu-kai Chou's 8 core drives and 160+ gamification techniques, navigable. |
 | [The Bridge](https://the-bridge-lc.netlify.app) | A 4½-minute hand-written WebGL cinematic — the portfolio piece that is also the proof of craft. |
+| [TVA Case File № L-1607](https://tva-case-file-l1607.netlify.app) | A cinematic portfolio as a *Loki*-style case file: one person filed under seven headings — lawyer, mediator, negotiator, consultant, AI builder, writer, teacher — "filing error suspected." The categorization problem, made visible. |
 | [Portfolio](https://lorenzocolombani.github.io) | Clients, numbers, and the full record. |
 
 ## Selected work & writing
@@ -112,9 +113,11 @@ Seven public instruments. The instruments are the argument.
   hierarchy. [Medium](https://medium.com/@lorenzocolombani/digital-markets-act-a-practical-guide-to-interface-design-compliance-7c01d92cf3f8)
 - **The signature series** — a named framework from law or philosophy, turned
   on a live technology situation: [*Aristotle Was a Data
-  Engineer*](https://medium.com/@lorenzocolombani) · *Is AI Intelligent?
-  Descartes Answered 4 Centuries Ago* · *He Died in 2021. He Spoke in Court in
-  2025. Plato Objects.*
+  Engineer*](https://medium.com/@lorenzocolombani/aristotle-was-a-data-engineer-68937ee300b4)
+  · [*Is AI Intelligent? Descartes Answered 4 Centuries
+  Ago*](https://medium.com/@lorenzocolombani/is-ai-intelligent-ren%C3%A9-descartes-answered-the-question-4-centuries-ago-03f2623cd6f1)
+  · [*He Died in 2021. He Spoke in Court in 2025. Plato
+  Objects.*](https://medium.com/@lorenzocolombani/he-died-in-2021-he-spoke-in-court-in-2025-plato-objects-84c1376aca49)
 - **Réguler le transhumanisme : droit dur ou RSE ?** (2017) — the consulting
   thesis, written early. [thplus.org](https://thplus.org/reguler-le-transhumanisme-droit-dur-ou-rse/)
 - **Brainstorm N°1 — *Le vieillissement est-il une maladie ?*** (2019, 62 pp.) —
@@ -136,8 +139,10 @@ Seven public instruments. The instruments are the argument.
 | CAPA — French bar professional aptitude certificate, EFB (2018) → **Certified Lawyer (France)** | [Portfolio credentials](https://lorenzocolombani.github.io) |
 | Mediator, Paris Court of Appeal — civil & commercial lists (2024–present) | [Official directory (PDF)](https://www.cours-appel.justice.fr/sites/default/files/2026-05/ANNUMED%20MAJ%2015%20mai%202026.pdf) |
 | Certified Data Vault 2.1 Practitioner (2026, valid to 2029) | [credential.net](https://www.credential.net/7e983a56-5e4f-4f7f-8d84-c380c5d8253e) |
+| Data Warehouse — The Ultimate Guide (2026) | [Udemy certificate](https://ude.my/UC-56a87968-c70a-4cb6-b9ac-cf6da507b69e) |
 | Complete SQL & Databases Bootcamp, 24.5h (2026) | [Udemy certificate](https://ude.my/UC-b636472b-37d9-43b8-b93e-89ada71ffd0e) |
-| PSM I & PSPO I, Scrum.org (2023) | *(verification links being retrieved)* |
+| PSM I, Scrum.org (2023) | [Credly badge](https://www.credly.com/badges/50e64bce-a6e4-4c1c-885e-f79fc7b32d56) |
+| PSPO I, Scrum.org (2023) | [Credly badge](https://www.credly.com/badges/50cc14e3-8a5c-4988-a827-8ef312b24f96) |
 | Total Leadership©, Wharton (2018–19) · Psychoanalytic Diagnostics & EI Communication, IMPP (2018) | [Portfolio credentials](https://lorenzocolombani.github.io) |
 
 ## Roles
@@ -173,8 +178,6 @@ Seven public instruments. The instruments are the argument.
 - Named testimonial from **TotalEnergies** (Arnaud Roger, IT Business Analyst
   & Trading Operations) — [makeworkingfun.com](https://www.makeworkingfun.com/home)
   — one of **six public client recommendations** ([all on LinkedIn](https://www.linkedin.com/in/locolombani/details/recommendations/))
-- **HolyGames** — gamified donation terminal deployed at La Madeleine Church,
-  Paris
 - OpenAI Forum Paris launch: ~90% attendance, delivered solo in two weeks
 
 ## What clients say
