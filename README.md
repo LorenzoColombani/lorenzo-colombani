@@ -139,6 +139,13 @@ Eight public instruments. The instruments are the argument.
   Commission](https://fulbright-france.org/en/node/627); held in the
   [Penn Law School library](https://lola.law.upenn.edu/record=b805615).
   [PDF](https://brainstorm.thplus.org/wp-content/uploads/2019/03/Brainstorm-Le-vieillissement-est-il-une-maladie1.pdf)
+- **Why is France So Conflictive?** (2019; revised edition 2025) —
+  sole-authored negotiation research: a diagnosis of French negotiating
+  culture through the *Getting More* lens, built on qualitative interviews
+  with **nine French dispute-resolution specialists**. Written as a Penn Law
+  Independent Study in Negotiation **supervised by Stuart Diamond**
+  (Spring 2019); the 2025 revision is the author's own.
+  [ResearchGate](https://www.researchgate.net/publication/395718406_Why_is_France_So_Conflictive_2025_Revised_Version)
 - **The philosophy papers** (Sorbonne, 2014–15) — Plato, Epicurus, Popper:
   **38,000+ reads and 1,800+ downloads** on
   [Academia.edu](https://paris-sorbonne.academia.edu/LorenzoColombani),
