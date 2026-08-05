@@ -124,6 +124,12 @@ Eight public instruments. The instruments are the argument.
   Ago*](https://medium.com/@lorenzocolombani/is-ai-intelligent-ren%C3%A9-descartes-answered-the-question-4-centuries-ago-03f2623cd6f1)
   · [*He Died in 2021. He Spoke in Court in 2025. Plato
   Objects.*](https://medium.com/@lorenzocolombani/he-died-in-2021-he-spoke-in-court-in-2025-plato-objects-84c1376aca49)
+- **Saisine of the CCNE** — France's National Consultative Ethics Committee —
+  on whether ageing should be treated as a disease (ThinkH+), with the
+  Committee's official response.
+  [Saisine (FR)](https://www.makeworkingfun.com/_files/ugd/c5bf90_35c5a3343632453086ef54676e6113ef.pdf)
+  · [Submission (EN)](https://www.makeworkingfun.com/_files/ugd/c5bf90_e212798dbb334c45be4608ce21e42028.pdf)
+  · [Official CCNE response (PDF)](https://www.makeworkingfun.com/_files/ugd/c5bf90_5645516cb7124016a8f579698210cb79.pdf)
 - **Réguler le transhumanisme : droit dur ou RSE ?** (2017) — the consulting
   thesis, written early. [thplus.org](https://thplus.org/reguler-le-transhumanisme-droit-dur-ou-rse/)
 - **Brainstorm N°1 — *Le vieillissement est-il une maladie ?*** (2019, 62 pp.) —
