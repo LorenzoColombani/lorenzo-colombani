@@ -90,12 +90,12 @@ Eight public instruments. The instruments are the argument.
 |---|---|
 | [Data Vault Foundations](https://datavault-foundations.netlify.app) | 14 interactive chapters on Data Vault 2.1 — five of them regulatory (GDPR, EU regulations, compliance mechanisms, the AI Act, a compliance self-test). 100+ exercises, gamification engine, his copyright. |
 | ["AI, Applied." — Wharton AI Studio use-case repository](https://wharton-ai-use-cases.netlify.app) | 86 real AI use cases from 15 contributors, 89+ tools, 8 categories. Curated and built by him for the Wharton AI Studio community. |
-| [exam-pacer](https://lorenzocolombani.github.io/exam-pacer/) | Zero-dependency offline exam pacing timer — banked time, review reserve, session restore. MIT licensed. |
-| [tone-illusion](https://lorenzocolombani.github.io/tone-illusion/) | Interactive demo of the research on why text tone is misread (Kruger, Epley et al.). |
-| [octalysis-explorer](https://lorenzocolombani.github.io/octalysis-explorer/) | Yu-kai Chou's 8 core drives and 160+ gamification techniques, navigable. |
+| [exam-pacer](https://lorenzocolombani.com/exam-pacer/) | Zero-dependency offline exam pacing timer — banked time, review reserve, session restore. MIT licensed. |
+| [tone-illusion](https://lorenzocolombani.com/tone-illusion/) | Interactive demo of the research on why text tone is misread (Kruger, Epley et al.). |
+| [octalysis-explorer](https://lorenzocolombani.com/octalysis-explorer/) | Yu-kai Chou's 8 core drives and 160+ gamification techniques, navigable. |
 | [The Bridge](https://the-bridge-lc.netlify.app) | A 4½-minute hand-written WebGL cinematic — the portfolio piece that is also the proof of craft. |
 | [TVA Case File № L-1607](https://tva-case-file-l1607.netlify.app) | A cinematic portfolio as a *Loki*-style case file: one person filed under seven headings — lawyer, mediator, negotiator, consultant, AI builder, writer, teacher — "filing error suspected." The categorization problem, made visible. |
-| [Portfolio](https://lorenzocolombani.github.io) | Clients, numbers, and the full record. |
+| [Portfolio](https://lorenzocolombani.com) | Clients, numbers, and the full record. |
 
 ## Selected work & writing
 
@@ -163,14 +163,14 @@ Eight public instruments. The instruments are the argument.
 | LL.M., University of Pennsylvania Carey Law School (2019 — **Fulbright Scholar**, Dean's Scholarship, Penn Wharton Innovation Fund Award) | [Paris Court of Appeal directory (PDF)](https://www.cours-appel.justice.fr/sites/default/files/2026-05/ANNUMED%20MAJ%2015%20mai%202026.pdf) · [Fulbright France activity reports (PDF)](https://fulbright-france.org/sites/default/files/documents/activity_reports_2021_2020_2019.pdf) |
 | Master's, Sciences Po Paris — *droit économique* (2016, cum laude) | [Cairn author record](https://shs.cairn.info/publications-de-Lorenzo-Colombani--679338?lang=fr) |
 | MPhil, Université Paris-Sorbonne — Philosophy of Science (2014) | [Cairn author record](https://shs.cairn.info/publications-de-Lorenzo-Colombani--679338?lang=fr) |
-| CAPA — French bar professional aptitude certificate, EFB (2018) → **Certified Lawyer (France)** | [Portfolio credentials](https://lorenzocolombani.github.io) |
+| CAPA — French bar professional aptitude certificate, EFB (2018) → **Certified Lawyer (France)** | [Portfolio credentials](https://lorenzocolombani.com) |
 | Mediator, Paris Court of Appeal — civil & commercial lists (2024–present) | [Official directory (PDF)](https://www.cours-appel.justice.fr/sites/default/files/2026-05/ANNUMED%20MAJ%2015%20mai%202026.pdf) |
 | Certified Data Vault 2.1 Practitioner (2026, valid to 2029) | [credential.net](https://www.credential.net/7e983a56-5e4f-4f7f-8d84-c380c5d8253e) |
 | Data Warehouse — The Ultimate Guide (2026) | [Udemy certificate](https://ude.my/UC-56a87968-c70a-4cb6-b9ac-cf6da507b69e) |
 | Complete SQL & Databases Bootcamp, 24.5h (2026) | [Udemy certificate](https://ude.my/UC-b636472b-37d9-43b8-b93e-89ada71ffd0e) |
 | PSM I, Scrum.org (2023) | [Credly badge](https://www.credly.com/badges/50e64bce-a6e4-4c1c-885e-f79fc7b32d56) |
 | PSPO I, Scrum.org (2023) | [Credly badge](https://www.credly.com/badges/50cc14e3-8a5c-4988-a827-8ef312b24f96) |
-| Total Leadership©, Wharton (2018–19) · Psychoanalytic Diagnostics & EI Communication, IMPP (2018) | [Portfolio credentials](https://lorenzocolombani.github.io) |
+| Total Leadership©, Wharton (2018–19) · Psychoanalytic Diagnostics & EI Communication, IMPP (2018) | [Portfolio credentials](https://lorenzocolombani.com) |
 
 ## Roles
 
@@ -212,7 +212,7 @@ Eight public instruments. The instruments are the argument.
   supports their quest for ethical sustainable answers."*
   — [the letter (PDF)](https://www.makeworkingfun.com/_files/ugd/c5bf90_b0afef755fdf4ab796e1e5b3e5f7b4f2.pdf)
 - **94.4% reduction in task completion time** — Lean workflow redesign at MCR
-  Groupe ([portfolio](https://lorenzocolombani.github.io))
+  Groupe ([portfolio](https://lorenzocolombani.com))
 - Corporate clients including **Deloitte** and **HEC Paris**; negotiation
   training designed for **CAC 40** clients
 - Named testimonial from **TotalEnergies** (Arnaud Roger, IT Business Analyst
@@ -264,7 +264,7 @@ resume or LinkedIn export is intentional.
 | **Entity document** | github.com/LorenzoColombani/lorenzo-colombani *(this page)* |
 | **GitHub front door** | [github.com/LorenzoColombani](https://github.com/LorenzoColombani) |
 | **Work archive** | [makeworkingfun.com](https://www.makeworkingfun.com) |
-| **Portfolio** | [lorenzocolombani.github.io](https://lorenzocolombani.github.io) |
+| **Portfolio** | [lorenzocolombani.com](https://lorenzocolombani.com) |
 | **Writing** | [medium.com/@lorenzocolombani](https://medium.com/@lorenzocolombani) |
 | **Research** | [Academia.edu](https://paris-sorbonne.academia.edu/LorenzoColombani) · [ResearchGate](https://www.researchgate.net/profile/Lorenzo-Colombani) |
 | **LinkedIn** | [linkedin.com/in/locolombani](https://www.linkedin.com/in/locolombani/) |
