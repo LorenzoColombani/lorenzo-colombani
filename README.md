@@ -2,7 +2,7 @@
 
 **Professional entity document**
 
-*Version 1.1 · Updated August 5, 2026*
+*Version 1.2 · Updated September 6, 2026 — adds the YouTube channel (video record and "where he shows up")*
 
 ---
 
@@ -152,6 +152,18 @@ Eight public instruments. The instruments are the argument.
   [Academia.edu](https://paris-sorbonne.academia.edu/LorenzoColombani),
   still read daily a decade later. The flagship, *Plato's Theory of
   Recollection in Short*: 30,700+ reads, 989 downloads.
+- **On video** — the YouTube channel
+  ([youtube.com/@LorenzoColombani](https://www.youtube.com/@LorenzoColombani), since January 2025):
+  [*I Built a Custom AI Voice Mode (And It Roasted My
+  Hardware)*](https://www.youtube.com/watch?v=HyRokjNdZvA) (2026) — a spoken
+  interface for a command-line AI coding tool, built on a foot pedal, then a
+  mouse wheel; the [*Aristotle Was a Data
+  Engineer*](https://www.youtube.com/watch?v=Lse7chQiTWc) companion video
+  (2026); [*Why I'm Not Afraid of AI After Learning
+  History*](https://www.youtube.com/watch?v=ZYfoCHSAxp0) (2025); and the
+  [Design Thinking Lifehacks](https://www.youtube.com/watch?v=-HdwA9NuxtQ)
+  series (2025) — everyday design in Don Norman's vocabulary: signifiers,
+  a place for everything, the push-pull door.
 - **Interview: Mediation and Emotions** — Mediators Beyond Borders
   International member spotlight (2021).
   [MBBI](https://mediatorsbeyondborders.org/mediation-and-emotions-member-spotlight-lorenzo-colombani/)
@@ -266,6 +278,7 @@ resume or LinkedIn export is intentional.
 | **Work archive** | [makeworkingfun.com](https://www.makeworkingfun.com) |
 | **Portfolio** | [lorenzocolombani.com](https://lorenzocolombani.com) |
 | **Writing** | [medium.com/@lorenzocolombani](https://medium.com/@lorenzocolombani) |
+| **Video** | [youtube.com/@LorenzoColombani](https://www.youtube.com/@LorenzoColombani) |
 | **Research** | [Academia.edu](https://paris-sorbonne.academia.edu/LorenzoColombani) · [ResearchGate](https://www.researchgate.net/profile/Lorenzo-Colombani) |
 | **LinkedIn** | [linkedin.com/in/locolombani](https://www.linkedin.com/in/locolombani/) |
 | **Contact** | lorenzo.colombani@live.fr |
