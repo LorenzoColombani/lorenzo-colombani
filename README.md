@@ -2,16 +2,18 @@
 
 **Professional entity document**
 
-*Version 1.2 · Updated September 6, 2026 — adds the YouTube channel (video record and "where he shows up")*
+*Version 2.0 · Updated September 6, 2026 — rewritten to match the current
+identity (Designer & Developer); every fact checked against the locked record
+behind [lorenzocolombani.com](https://lorenzocolombani.com). Version 1.2 is in
+the history of this repository.*
 
 ---
 
-Lorenzo Colombani translates between humans and machines — and between the
-specialists who can't hear each other. He is a Certified Lawyer (France), a
-court-appointed mediator at the Paris Court of Appeal, one of two Senior
-Instructors of Stuart Diamond's *Getting More* negotiation method, and a
-builder of AI instruments. He is based in Hannover, Germany, and works in
-English and French.
+Lorenzo Colombani is an AI product designer and developer. He makes humans
+and machines intelligible to each other — AI products, learning systems,
+interactive web experiences — with the work running on the page at
+[lorenzocolombani.com](https://lorenzocolombani.com). He is based in Hannover,
+Germany, registered as a freelancer there, and works in English and French.
 
 *This page is his entity document: the single, current, verifiable record of
 what he does, what he has built, and where everything else lives. If a claim
@@ -21,84 +23,97 @@ here matters to you, it links to something you can check.*
 
 ## What he does
 
-For fifteen years the job has had one shape: **stand between two parties who
-don't share a language — lawyers and engineers, employers and employee
-representatives, humans and AI systems — and translate until the work moves.**
-He published that sentence about himself years before AI made it a category:
-*"I translate the needs of diverse stakeholders to ensure frictionless
-delivery of their project."*
+**Designer & Developer — AI products · learning systems · interactive web
+experiences.** Three things you can hire him for:
 
-Today that means three things:
+- **Build.** AI tools for your team: working software, designed with the
+  people who will use it. The tool takes the repetitive work; they keep the
+  judgment.
+- **Train.** Live workshops and coaching, plus AI-powered interactive courses
+  that a team keeps using after he has left.
+- **Retain.** Available on retainer, for a few clients at a time. You do not
+  need him to run what he built; keep him on to keep improving it.
 
-- **AI translation.** He helps organizations turn what AI actually does into
-  decisions their people can act on — adoption, governance, and the gap
-  between a pilot and production.
-- **Negotiation & mediation.** Trained under Stuart Diamond at Penn; listed
-  mediator at the Paris Court of Appeal (civil and commercial); negotiation
-  practice built with Christophe Caupenne, former head negotiator of the RAID.
-- **Instruments, not slideware.** Every method he uses ships as a working
-  tool — courses, evaluators, simulators, working software. His founding rule:
-  if it can't be used without him in the room, it isn't finished.
+How the software gets made: he designs the product and makes the technical
+calls — architecture, stack, interactions — then directs AI coding tools that
+build to his spec. He reviews and tests everything that ships.
+
+His founding rule, and the epigraph of the portfolio: *every method I use ships
+as a working tool — if it can't be used without me in the room, I haven't
+finished it.*
+
+## Background — why the products handle rules, incentives and trust
+
+Background in learning design (Chief Learning Officer at MCR Groupe until
+2022), French law (CAPA, the French bar's professional aptitude certificate;
+LL.M. from Penn as a Fulbright Scholar), court mediation (listed mediator at
+the Paris Court of Appeal) and negotiation (one of three Senior Instructors of
+Stuart Diamond's *Getting More* method, globally). Earlier: philosophy of
+science at the Sorbonne, research and writing. That background explains the
+work; it is not the product. Detail and witnesses: [Credentials](#credentials--verify-them-yourself)
+and [Roles](#roles) below, and the
+[Background page](https://lorenzocolombani.com/background/).
 
 ## Areas of expertise
 
-AI governance & the EU regulatory stack (AI Act, GDPR, DMA) · negotiation
-(Getting More method) · court mediation · corporate training & instructional
-design · gamification implemented as software · legal analysis of technology
-· evaluation discipline for AI systems · cross-cultural, bilingual delivery
-(EN/FR)
+AI product design and development · learning systems and instructional design
+· interactive web experiences · AI governance and the EU AI Act · AI adoption
+for organizations · negotiation (Getting More method) · court mediation ·
+gamification implemented as software · evaluation discipline for AI systems ·
+Data Vault 2.1 · GDPR and the Digital Markets Act · bilingual delivery (EN/FR)
 
-## Named working methods
+## Selected work
 
-Six named methods, each practised and documented:
+The work is the argument. In the order the portfolio uses:
 
-1. **The Book→Instrument Pipeline.** An eight-stage process for turning a
-   methodology he has studied and practised into an original working
-   instrument — mapping the method's structure, rebuilding it as his own
-   exercises and software, validation gates, red/green testing against a
-   baseline, honest reporting when the delta is small. The instrument is
-   original work; the method stays named and credited to its author. Run
-   five times.
-2. **Evidence-Gated Agent Governance.** Running AI agents as a supervised
-   workforce under a versioned constitution: permission fencing, capability
-   ladders with mechanical fallbacks, separation of powers, and review that
-   expects to find defects. ~11 weeks of continuous daily production —
-   personal projects, on his own machine and own time; one measured 29-day
-   window (Jul–Aug 2026) logged 120 sessions, 449 hours of supervised agent
-   work, and 350 commits.
-3. **The Phase-Zero Premise Check.** Before any engagement work: attempt to
-   falsify the commissioning assumption, gated on a human go/no-go. Practised
-   three documented times; one engagement's research found its own premise
-   false and said so.
-4. **Hard Law / Soft Law Mapping.** Map positive law → identify the gap →
-   propose both hard-law and CSR instruments; regulation as a response to a
-   problem, never an end in itself. Practised since 2017 on AI — see the
-   Villani-mission report below.
-5. **Constitution → State → Output → Handoff.** One architecture for every
-   system he builds: written rules, append-only state, derived output, and a
-   handoff document so the next person (or session) starts warm. Founding
-   rule: reading burden and maintenance burden never share a file.
-6. **The Course Factory.** Original curricula built by fusing a named
-   framework to an experiential mechanic — seven courses across three
-   institutions, from symbolic logic to negotiation to Scrum.
+| Work | What it is | Live |
+|---|---|---|
+| **OpenBots** (v0.5.0, 1 September 2026) | Claude as a team of persistent, named teammates — a native macOS app with durable local SQLite state, explicit approvals and six built-in characters. No API key; it rides the subscription. Swift 6, SwiftUI, MIT. Preview build: the executor for consequential actions is disabled. First source release v0.1.0 on 17 August 2026 under the working name Agency. Used by its author; no user claims. | [Repo](https://github.com/LorenzoColombani/openbots) · [Case study](https://lorenzocolombani.com/work/openbots/) |
+| **Data Vault Foundations** | A 14-chapter interactive learning platform on Data Vault 2.1 — architecture, SQL, dbt, EU compliance (GDPR, the AI Act, a compliance self-test), Python — with quests, feedback and hands-on exercises. His copyright; certification and enterprise Data Vault work point to Scalefree. | [Open](https://datavault-foundations.netlify.app) · [Case study](https://lorenzocolombani.com/work/data-vault-foundations/) |
+| **TVA Case File** | A motion-and-typography case file in the language of the *Loki* title sequence: seven "deviations," one timeline, running in the browser. | [Open](https://tva-case-file-l1607.netlify.app) · [Case study](https://lorenzocolombani.com/work/tva-case-file/) |
+| **"AI, Applied."** | 87 real-world AI use cases from 15 contributors, 94+ tools (live counts, September 2026; the site grows). He convened the contributors and built the site for the Wharton Alumni AI Studio, an alumni nonprofit. Astro, React, GSAP. | [Open](https://wharton-ai-use-cases.netlify.app) · [Case study](https://lorenzocolombani.com/work/ai-applied/) |
+| **The Bridge** | An interactive web film — Three.js portals, GLSL, GSAP. A 4.5-minute proof that a method can be a place you walk through. Score: Kevin MacLeod (CC BY). | [Open](https://the-bridge-lc.netlify.app) · [Case study](https://lorenzocolombani.com/work/the-bridge/) |
 
-## Instruments (public, free, live)
+Smaller tools, free and live:
+[exam-pacer](https://lorenzocolombani.com/exam-pacer/) (zero-dependency
+offline exam pacing timer, MIT) ·
+[tone-illusion](https://lorenzocolombani.com/tone-illusion/) (why text tone is
+misread — Kruger, Epley et al.) ·
+[octalysis-explorer](https://lorenzocolombani.com/octalysis-explorer/)
+(Yu-kai Chou's 8 core drives and 160+ techniques, navigable). The portfolio
+site itself is built, not bought: a raw-WebGL hero, in-page previews and a
+soundtrack generated in-house.
 
-Eight public instruments. The instruments are the argument.
+Prototyped, past tense: a multimodal empathic-AI healthcare tool with Hume.ai
+under the Wharton AI Studio / Hume.ai grant programmes. Not a product.
 
-| Instrument | What it is |
-|---|---|
-| [Data Vault Foundations](https://datavault-foundations.netlify.app) | 14 interactive chapters on Data Vault 2.1 — five of them regulatory (GDPR, EU regulations, compliance mechanisms, the AI Act, a compliance self-test). 100+ exercises, gamification engine, his copyright. |
-| ["AI, Applied." — Wharton AI Studio use-case repository](https://wharton-ai-use-cases.netlify.app) | 86 real AI use cases from 15 contributors, 89+ tools, 8 categories. Curated and built by him for the Wharton AI Studio community. |
-| [exam-pacer](https://lorenzocolombani.com/exam-pacer/) | Zero-dependency offline exam pacing timer — banked time, review reserve, session restore. MIT licensed. |
-| [tone-illusion](https://lorenzocolombani.com/tone-illusion/) | Interactive demo of the research on why text tone is misread (Kruger, Epley et al.). |
-| [octalysis-explorer](https://lorenzocolombani.com/octalysis-explorer/) | Yu-kai Chou's 8 core drives and 160+ gamification techniques, navigable. |
-| [The Bridge](https://the-bridge-lc.netlify.app) | A 4½-minute hand-written WebGL cinematic — the portfolio piece that is also the proof of craft. |
-| [TVA Case File № L-1607](https://tva-case-file-l1607.netlify.app) | A cinematic portfolio as a *Loki*-style case file: one person filed under seven headings — lawyer, mediator, negotiator, consultant, AI builder, writer, teacher — "filing error suspected." The categorization problem, made visible. |
-| [Portfolio](https://lorenzocolombani.com) | Clients, numbers, and the full record. |
+## Writing & research
 
-## Selected work & writing
-
+- **Keep It Secret, Keep It (in a) Safe, Then Cast It into the Fire:
+  Engineering AI Act Data Governance — A Practical Guide for Data Teams**
+  (Zenodo preprint, 2 September 2026, CC BY 4.0, 24 pages, sole author). Maps
+  the AI Act's data obligations, article by article, onto Data Vault design
+  decisions: sensitive satellites, where the bias gate sits, which erasure
+  pattern fits, what evidence may survive a deletion.
+  [DOI 10.5281/zenodo.22255574](https://doi.org/10.5281/zenodo.22255574)
+- **Digital Markets Act: A Practical Guide to Interface Design Compliance**
+  (2025) — regulation translated into button placement and information
+  hierarchy. [Medium](https://medium.com/@lorenzocolombani/digital-markets-act-a-practical-guide-to-interface-design-compliance-7c01d92cf3f8)
+- **The signature series** — a named framework from law or philosophy, turned
+  on a live technology situation: [*Aristotle Was a Data
+  Engineer*](https://medium.com/@lorenzocolombani/aristotle-was-a-data-engineer-68937ee300b4)
+  · [*Is AI Intelligent? Descartes Answered 4 Centuries
+  Ago*](https://medium.com/@lorenzocolombani/is-ai-intelligent-ren%C3%A9-descartes-answered-the-question-4-centuries-ago-03f2623cd6f1)
+  · [*He Died in 2021. He Spoke in Court in 2025. Plato
+  Objects.*](https://medium.com/@lorenzocolombani/he-died-in-2021-he-spoke-in-court-in-2025-plato-objects-84c1376aca49)
+  — more at [medium.com/@lorenzocolombani](https://medium.com/@lorenzocolombani)
+- **Why is France So Conflictive?** (2019; revised edition 2025) —
+  sole-authored negotiation research: a diagnosis of French negotiating
+  culture through the *Getting More* lens, built on qualitative interviews
+  with nine French dispute-resolution specialists. Written as a Penn Law
+  Independent Study in Negotiation supervised by Stuart Diamond (Spring 2019);
+  the 2025 revision is the author's own.
+  [ResearchGate](https://www.researchgate.net/publication/395718406_Why_is_France_So_Conflictive_2025_Revised_Version)
 - **Enjeux juridiques de l'intelligence artificielle** (2017, 112 pp., co-directed) —
   the ThinkH+ contribution to France's Villani AI mission (listed in the
   official report's *Contributions reçues*). Proposed a text-and-data-mining
@@ -116,16 +131,6 @@ Eight public instruments. The instruments are the argument.
   de lutte contre les GAFA** — *AJ Contrat* (Dalloz), Nov 2018, pp. 471–476 —
   on the doctrine France used against Amazon, Apple and Google.
   [HAL record](https://hal.science/hal-01929790v1)
-- **Digital Markets Act: A Practical Guide to Interface Design Compliance**
-  (2025) — regulation translated into button placement and information
-  hierarchy. [Medium](https://medium.com/@lorenzocolombani/digital-markets-act-a-practical-guide-to-interface-design-compliance-7c01d92cf3f8)
-- **The signature series** — a named framework from law or philosophy, turned
-  on a live technology situation: [*Aristotle Was a Data
-  Engineer*](https://medium.com/@lorenzocolombani/aristotle-was-a-data-engineer-68937ee300b4)
-  · [*Is AI Intelligent? Descartes Answered 4 Centuries
-  Ago*](https://medium.com/@lorenzocolombani/is-ai-intelligent-ren%C3%A9-descartes-answered-the-question-4-centuries-ago-03f2623cd6f1)
-  · [*He Died in 2021. He Spoke in Court in 2025. Plato
-  Objects.*](https://medium.com/@lorenzocolombani/he-died-in-2021-he-spoke-in-court-in-2025-plato-objects-84c1376aca49)
 - **Saisine of the CCNE** — France's National Consultative Ethics Committee —
   on whether ageing should be treated as a disease (ThinkH+), with the
   Committee's official response.
@@ -140,18 +145,10 @@ Eight public instruments. The instruments are the argument.
   [Biddle Law Library](https://biddle.on.worldcat.org/oclc/1206213191)
   (OCLC 1206213191).
   [PDF](https://brainstorm.thplus.org/wp-content/uploads/2019/03/Brainstorm-Le-vieillissement-est-il-une-maladie1.pdf)
-- **Why is France So Conflictive?** (2019; revised edition 2025) —
-  sole-authored negotiation research: a diagnosis of French negotiating
-  culture through the *Getting More* lens, built on qualitative interviews
-  with **nine French dispute-resolution specialists**. Written as a Penn Law
-  Independent Study in Negotiation **supervised by Stuart Diamond**
-  (Spring 2019); the 2025 revision is the author's own.
-  [ResearchGate](https://www.researchgate.net/publication/395718406_Why_is_France_So_Conflictive_2025_Revised_Version)
 - **The philosophy papers** (Sorbonne, 2014–15) — Plato, Epicurus, Popper:
-  **38,000+ reads and 1,800+ downloads** on
+  38,000+ public views on
   [Academia.edu](https://paris-sorbonne.academia.edu/LorenzoColombani),
-  still read daily a decade later. The flagship, *Plato's Theory of
-  Recollection in Short*: 30,700+ reads, 989 downloads.
+  still read a decade later.
 - **Interview: Mediation and Emotions** — Mediators Beyond Borders
   International member spotlight (2021).
   [MBBI](https://mediatorsbeyondborders.org/mediation-and-emotions-member-spotlight-lorenzo-colombani/)
@@ -174,48 +171,90 @@ The YouTube channel ([youtube.com/@LorenzoColombani](https://www.youtube.com/@Lo
   (2025) — everyday design in Don Norman's vocabulary: signifiers, a place
   for everything, the push-pull door.
 
+## How he works — named methods
+
+Method vocabulary, each practised and documented; the work above is where
+they show.
+
+1. **The Book→Instrument Pipeline.** An eight-stage process for turning a
+   methodology he has studied and practised into an original working
+   instrument — mapping the method's structure, rebuilding it as his own
+   exercises and software, validation gates, red/green testing against a
+   baseline, honest reporting when the delta is small. The instrument is
+   original work; the method stays named and credited to its author.
+2. **Evidence-Gated Agent Governance.** Running AI coding agents as a
+   supervised workforce under written rules: permission fencing, capability
+   ladders with mechanical fallbacks, separation of powers, and review that
+   expects to find defects. Practised daily on his own projects, own machine,
+   own time; one measured 29-day window (Jul–Aug 2026) logged 120 sessions,
+   449 hours of supervised agent work and 350 commits.
+3. **The Phase-Zero Premise Check.** Before any engagement work: attempt to
+   falsify the commissioning assumption, gated on a human go/no-go. One
+   engagement's research found its own premise false and said so.
+4. **Hard Law / Soft Law Mapping.** Map positive law → identify the gap →
+   propose both hard-law and CSR instruments; regulation as a response to a
+   problem, never an end in itself. Practised since 2017 on AI — see the
+   Villani-mission report above.
+5. **Constitution → State → Output → Handoff.** One architecture for every
+   system he builds: written rules, append-only state, derived output, and a
+   handoff document so the next person (or session) starts warm.
+6. **The Course Factory.** Original curricula built by fusing a named
+   framework to an experiential mechanic — seven courses across three
+   institutions, from symbolic logic to negotiation to Scrum.
+
 ## Credentials — verify them yourself
 
 | Credential | Verify |
 |---|---|
-| LL.M., University of Pennsylvania Carey Law School (2019 — **Fulbright Scholar**, Dean's Scholarship, Penn Wharton Innovation Fund Award) | [Paris Court of Appeal directory (PDF)](https://www.cours-appel.justice.fr/sites/default/files/2026-05/ANNUMED%20MAJ%2015%20mai%202026.pdf) · [Fulbright France activity reports (PDF)](https://fulbright-france.org/sites/default/files/documents/activity_reports_2021_2020_2019.pdf) |
+| LL.M., University of Pennsylvania Carey Law School (2019 — **Fulbright Scholar**, Dean's Scholarship, Penn Wharton Innovation Fund Award) | [Fulbright France activity reports (PDF)](https://fulbright-france.org/sites/default/files/documents/activity_reports_2021_2020_2019.pdf) · [Fulbright Commission page](https://fulbright-france.org/en/node/627) |
 | Master's, Sciences Po Paris — *droit économique* (2016, cum laude) | [Cairn author record](https://shs.cairn.info/publications-de-Lorenzo-Colombani--679338?lang=fr) |
 | MPhil, Université Paris-Sorbonne — Philosophy of Science (2014) | [Cairn author record](https://shs.cairn.info/publications-de-Lorenzo-Colombani--679338?lang=fr) |
-| CAPA — French bar professional aptitude certificate, EFB (2018) → **Certified Lawyer (France)** | [Portfolio credentials](https://lorenzocolombani.com) |
-| Mediator, Paris Court of Appeal — civil & commercial lists (2024–present) | [Official directory (PDF)](https://www.cours-appel.justice.fr/sites/default/files/2026-05/ANNUMED%20MAJ%2015%20mai%202026.pdf) |
-| Certified Data Vault 2.1 Practitioner (2026, valid to 2029) | [credential.net](https://www.credential.net/7e983a56-5e4f-4f7f-8d84-c380c5d8253e) |
+| CAPA — French bar professional aptitude certificate, EFB (2018) | [Background page](https://lorenzocolombani.com/background/) |
+| Mediator, Paris Court of Appeal — civil & commercial lists (2024–2026) | [Official directory, ANNUMED May 2026 (PDF)](https://www.cours-appel.justice.fr/sites/default/files/2026-05/ANNUMED%20MAJ%2015%20mai%202026.pdf) |
+| Senior Instructor, Getting More — one of three globally | [Getting More instructors](https://gettingmore.com/instructors) |
+| Certified Data Vault 2.1 Practitioner (CDVP2.1), Scalefree — certificate ID 187069835, valid to 2 July 2029 | Certificate on file; [Background page](https://lorenzocolombani.com/background/) |
 | Data Warehouse — The Ultimate Guide (2026) | [Udemy certificate](https://ude.my/UC-56a87968-c70a-4cb6-b9ac-cf6da507b69e) |
 | Complete SQL & Databases Bootcamp, 24.5h (2026) | [Udemy certificate](https://ude.my/UC-b636472b-37d9-43b8-b93e-89ada71ffd0e) |
 | PSM I, Scrum.org (2023) | [Credly badge](https://www.credly.com/badges/50e64bce-a6e4-4c1c-885e-f79fc7b32d56) |
 | PSPO I, Scrum.org (2023) | [Credly badge](https://www.credly.com/badges/50cc14e3-8a5c-4988-a827-8ef312b24f96) |
-| Total Leadership©, Wharton (2018–19) · Psychoanalytic Diagnostics & EI Communication, IMPP (2018) | [Portfolio credentials](https://lorenzocolombani.com) |
+| Total Leadership©, Wharton (2018–19) · Psychoanalytic Diagnostics & EI Communication, IMPP (2018) | [Background page](https://lorenzocolombani.com/background/) |
 
 ## Roles
 
-- **Independent practice — IT & AI consulting, own software products, and
-  digital learning content** (Einzelunternehmen, registered Hannover,
-  2026–present).
-- **Founder, Make Working Fun SAS** (2022–2025; company dormant) — registered
-  French company (RCS Nanterre 917 652 745). Delivered negotiation training,
-  mediation, and AI-enabled learning design; the site remains the work
+Latest first.
+
+- **Designer & Developer — Independent practice** (Einzelunternehmen,
+  registered in Hannover on 4 August 2026 — present). AI products, learning
+  systems, interactive web experiences; invoices from Germany.
+- **Business Intelligence Consultant (intern), Scalefree International GmbH,
+  Hanover** (June–August 2026) — a three-month internship at a Data Vault
+  consultancy: source systems into the enterprise data warehouse on Google
+  BigQuery, Data Vault 2.1 modelling, technical articles and presentations.
+- **Board Member, Wharton Alumni AI Studio** (alumni nonprofit) — convened the
+  contributors and built the community's public use-case site, *AI, Applied.*
+  (above); founded and leads its AI – Law and Regulation think-tank.
+- **Community lead, Paris OpenAI Forum** (2025–2026) — launched the Forum's
+  first Meet & Greet in France with a five-person team; participants from
+  Google, Inria, Rothschild AM, MIT Sloan; about 90% attendance.
+- **Senior Instructor, Getting More** — one of three globally, teaching
+  Stuart Diamond's negotiation method.
+- **Founder, Make Working Fun SAS** (2022–2026; company dormant since 2025) —
+  registered French company (RCS Nanterre 917 652 745). Delivered negotiation
+  training, mediation, and AI-enabled learning design; the site is the work
   archive. [makeworkingfun.com](https://www.makeworkingfun.com)
-- **Senior Instructor, Getting More** — one of two Senior Instructors of
-  Stuart Diamond's negotiation method, alongside the founder.
-- **Paris Forum Leader, OpenAI Forum** (2025–2026) — launched the Forum's
-  first Meet & Greet in France; participants from Google, Inria, Rothschild
-  AM, MIT Sloan.
-- **Board Member & curator, Wharton Alumni AI Studio** — built and curates the
-  community's public use-case repository (above).
 - **Professor, ESCP Business School** (2022–2023) — European Institutions,
   Comparative Political Systems, International Business Law; cohorts of 30–60.
-- **Chief Learning Officer (2021–22) ← Instructional Designer ← Negotiation
-  Consultant, MCR Groupe** (2019–2022) — built the firm's negotiation practice
-  with Christophe Caupenne; negotiation advising up to and including a
-  judiciary-mandated collective-bargaining renegotiation at a multinational.
-- **Co-founder & CEO, ThinkH+** (2015–2019) — legal-tech think-do tank
-  incubated at the Sciences Po Law Clinic, supported by L'Oréal's Chief Ethics
-  Officer ([his letter, PDF](https://www.makeworkingfun.com/_files/ugd/c5bf90_b0afef755fdf4ab796e1e5b3e5f7b4f2.pdf));
-  produced the Villani-mission report above.
+- **Learning Designer → Chief Learning Officer, MCR Groupe** (2019–2022) —
+  needs analysis into tailored programs and tools; curricula, scenarios, role
+  plays, assessments, facilitator materials; facilitation and delivery
+  operations for negotiation and leadership programs, 50+ training sessions,
+  client teams from SMEs to CAC 40 groups; led the learning function and
+  knowledge systems as CLO; built the firm's negotiation practice with
+  Christophe Caupenne, former head negotiator of the RAID.
+- **Co-founder & CEO, ThinkH+** (2015–2019) — the first think tank on
+  augmented humanity: human augmentation law and AI ethics, incubated at the
+  Sciences Po Law Clinic; produced the Villani-mission report above and the
+  CCNE saisine. [thplus.org](https://thplus.org)
 - **Board Member & Head of Business and Non-Profit Engagement, Fulbright
   Alumni Association France** (2019–2025) —
   [site archived](https://web.archive.org/web/20260422121746/https://www.fulbrightalumni.fr/)
@@ -229,14 +268,17 @@ The YouTube channel ([youtube.com/@LorenzoColombani](https://www.youtube.com/@Lo
   *"They are smart. They are passionate. … Meet them. Help them. L'ORÉAL too
   supports their quest for ethical sustainable answers."*
   — [the letter (PDF)](https://www.makeworkingfun.com/_files/ugd/c5bf90_b0afef755fdf4ab796e1e5b3e5f7b4f2.pdf)
-- **94.4% reduction in task completion time** — Lean workflow redesign at MCR
-  Groupe ([portfolio](https://lorenzocolombani.com))
-- Corporate clients including **Deloitte** and **HEC Paris**; negotiation
-  training designed for **CAC 40** clients
+  L'Oréal went on to commit €100,000 in patronage (mécénat) to ThinkH+.
+- **94.4% less time on one automation task** — the Qualiopi certification
+  workflow at MCR Groupe, automated; that task, not the job.
+- Learning-design delivery at MCR: 50+ training sessions; client teams from
+  SMEs to CAC 40 groups, including **Deloitte** and **HEC Paris**.
 - Named testimonial from **TotalEnergies** (Arnaud Roger, IT Business Analyst
   & Trading Operations) — [makeworkingfun.com](https://www.makeworkingfun.com/home)
   — one of **six public client recommendations** ([all on LinkedIn](https://www.linkedin.com/in/locolombani/details/recommendations/))
-- OpenAI Forum Paris launch: ~90% attendance, delivered solo in two weeks
+- *AI, Applied.*: 87 use cases · 15 contributors · 94+ tools, live and public.
+- OpenBots: 1,494 automated tests at v0.5.0 (read from the repository at
+  build time; the number moves).
 
 ## What clients say
 
@@ -273,7 +315,9 @@ LinkedIn's export drops entire categories of professional identity —
 recommendations, featured work, certifications, projects. Those sections do
 real semantic work inside the platform but never escape it. This document is
 the open-web record: everything here that would not appear on a standard
-resume or LinkedIn export is intentional.
+resume or LinkedIn export is intentional. The facts on this page are kept in
+one locked record and re-read before they are typed; a number that appears on
+more than one surface has one source.
 
 ## Where he shows up
 
@@ -281,8 +325,8 @@ resume or LinkedIn export is intentional.
 |---|---|
 | **Entity document** | github.com/LorenzoColombani/lorenzo-colombani *(this page)* |
 | **GitHub front door** | [github.com/LorenzoColombani](https://github.com/LorenzoColombani) |
-| **Work archive** | [makeworkingfun.com](https://www.makeworkingfun.com) |
 | **Portfolio** | [lorenzocolombani.com](https://lorenzocolombani.com) |
+| **Work archive (2022–2026)** | [makeworkingfun.com](https://www.makeworkingfun.com) |
 | **Writing** | [medium.com/@lorenzocolombani](https://medium.com/@lorenzocolombani) |
 | **Video** | [youtube.com/@LorenzoColombani](https://www.youtube.com/@LorenzoColombani) |
 | **Research** | [Academia.edu](https://paris-sorbonne.academia.edu/LorenzoColombani) · [ResearchGate](https://www.researchgate.net/profile/Lorenzo-Colombani) |
@@ -290,4 +334,4 @@ resume or LinkedIn export is intentional.
 | **Contact** | lorenzo.colombani@live.fr |
 
 **Languages:** French (native) · English (fluent — TOEFL 118/120) · Italian
-(limited working proficiency)
+(limited working proficiency). Based in Germany; no German-fluency claim.
