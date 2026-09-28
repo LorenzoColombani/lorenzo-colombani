@@ -2,10 +2,10 @@
 
 **Professional entity document**
 
-*Version 2.0 · Updated September 6, 2026 — rewritten to match the current
-identity (Designer & Developer); every fact checked against the locked record
-behind [lorenzocolombani.com](https://lorenzocolombani.com). Version 1.2 is in
-the history of this repository.*
+*Version 2.1 · Updated September 28, 2026 — OpenBots Next v1, The Workshop,
+SaberLab and the work since August added; every fact checked against the locked
+record behind [lorenzocolombani.com](https://lorenzocolombani.com). Version 2.0
+(September 6, 2026) and 1.2 are in the history of this repository.*
 
 ---
 
@@ -68,7 +68,8 @@ The work is the argument. In the order the portfolio uses:
 
 | Work | What it is | Live |
 |---|---|---|
-| **OpenBots** (v0.5.0, 1 September 2026) | Claude as a team of persistent, named teammates — a native macOS app with durable local SQLite state, explicit approvals and six built-in characters. No API key; it rides the subscription. Swift 6, SwiftUI, MIT. Preview build: the executor for consequential actions is disabled. First source release v0.1.0 on 17 August 2026 under the working name Agency. Used by its author; no user claims. | [Repo](https://github.com/LorenzoColombani/openbots) · [Case study](https://lorenzocolombani.com/work/openbots/) |
+| **The Workshop** (in progress) | A portfolio you walk into: a real-time 3D world in the browser — an ivory pavilion over the ocean, mountains behind, the sea and the ridges drawn live — where the work opens when you touch it. Three.js. An unfinished, working prototype, open anyway. Built by directing Codex. | [Case study](https://lorenzocolombani.com/work/the-workshop/) |
+| **OpenBots Next** (v1, 26 September 2026; v1.0.2, 27 September) | Claude as a team of named teammates you hire, brief and fence yourself — a native macOS app. Bots work in their own folders, search and fetch the web, run code, hire helpers, hand work to each other and use the Mac's apps through connectors; every ability is off until switched on per bot, and every consequential step waits on a card you approve. Runs on the user's own Claude Pro or Max plan through Claude Code; no API key, no accounts, no telemetry. Swift 6, SwiftUI, the system SQLite, MIT, free. The installer builds it on the user's Mac. Earlier: v0.1.0 on 17 August 2026 under the working name Agency; v0.5.0, the ground-up rebuild, on 1 September. Some team features were shaped by studying xAI's Grok Bot app (credited in the repository). Used by its author; no user claims. | [Repo](https://github.com/LorenzoColombani/openbots) · [Case study](https://lorenzocolombani.com/work/openbots/) · [Release video](https://youtu.be/oIXEZRL-zS4) |
 | **Data Vault Foundations** | A 14-chapter interactive learning platform on Data Vault 2.1 — architecture, SQL, dbt, EU compliance (GDPR, the AI Act, a compliance self-test), Python — with quests, feedback and hands-on exercises. His copyright; certification and enterprise Data Vault work point to Scalefree. | [Open](https://datavault-foundations.netlify.app) · [Case study](https://lorenzocolombani.com/work/data-vault-foundations/) |
 | **TVA Case File** | A motion-and-typography case file in the language of the *Loki* title sequence: seven "deviations," one timeline, running in the browser. | [Open](https://tva-case-file-l1607.netlify.app) · [Case study](https://lorenzocolombani.com/work/tva-case-file/) |
 | **"AI, Applied."** | 87 real-world AI use cases from 15 contributors, 94+ tools (live counts, September 2026; the site grows). He convened the contributors and built the site for the Wharton Alumni AI Studio, an alumni nonprofit. Astro, React, GSAP. | [Open](https://wharton-ai-use-cases.netlify.app) · [Case study](https://lorenzocolombani.com/work/ai-applied/) |
@@ -80,9 +81,27 @@ offline exam pacing timer, MIT) ·
 [tone-illusion](https://lorenzocolombani.com/tone-illusion/) (why text tone is
 misread — Kruger, Epley et al.) ·
 [octalysis-explorer](https://lorenzocolombani.com/octalysis-explorer/)
-(Yu-kai Chou's 8 core drives and 160+ techniques, navigable). The portfolio
+(Yu-kai Chou's 8 core drives and 160+ techniques, navigable) ·
+[easy-local-llm-guide](https://lorenzocolombani.com/easy-local-llm-guide/) ·
+[text-readability-guide](https://lorenzocolombani.com/text-readability-guide/) ·
+[multicultural-hiring-guide](https://lorenzocolombani.com/multicultural-hiring-guide/) ·
+[ios-assistant-seniors](https://lorenzocolombani.com/ios-assistant-seniors/) (in French) ·
+[star-wars-decluttering](https://lorenzocolombani.com/star-wars-decluttering/). The portfolio
 site itself is built, not bought: a raw-WebGL hero, in-page previews and a
 soundtrack generated in-house.
+
+Also: **SaberLab** — an app for a lightsaber you can reprogram (Proffieboard
+V2.2, ProffieOS 7.7): it shows every preset, sound and blade on the saber,
+remixes them into a new sound font without copying a sound, and writes it to
+the hilt. Not released; shown in an 11-minute demo on the real saber
+([video](https://www.youtube.com/watch?v=qYdvJwaupsE) ·
+[case study](https://lorenzocolombani.com/work/saberlab/)).
+
+The tools he builds with: his own Claude Code skills — among them a pipeline
+that turns a design book into a tested skill (Norman's *The Design of Everyday
+Things*, Yu-kai Chou's Octalysis, the Laws of UX) — and Claude Code driven by
+voice: a foot pedal, then a mouse wheel, now a ring on his finger
+([video](https://www.youtube.com/watch?v=uz1sQgzz27o)).
 
 Prototyped, past tense: a multimodal empathic-AI healthcare tool with Hume.ai
 under the Wharton AI Studio / Hume.ai grant programmes. Not a product.
@@ -96,6 +115,10 @@ under the Wharton AI Studio / Hume.ai grant programmes. Not a product.
   decisions: sensitive satellites, where the bias gate sits, which erasure
   pattern fits, what evidence may survive a deletion.
   [DOI 10.5281/zenodo.22255574](https://doi.org/10.5281/zenodo.22255574)
+- **My AI Interview: How I Would Rebuild the AI Interviewer** (Medium, 7
+  September 2026) — an AI interviewer assessed his learning-design skills; he
+  reviews it as a learning designer would, and redesigns it.
+  [Medium](https://medium.com/@lorenzocolombani/my-ai-interview-how-i-would-rebuild-the-ai-interviewer-499e5d226b82)
 - **Digital Markets Act: A Practical Guide to Interface Design Compliance**
   (2025) — regulation translated into button placement and information
   hierarchy. [Medium](https://medium.com/@lorenzocolombani/digital-markets-act-a-practical-guide-to-interface-design-compliance-7c01d92cf3f8)
@@ -158,6 +181,13 @@ under the Wharton AI Studio / Hume.ai grant programmes. Not a product.
 The YouTube channel ([youtube.com/@LorenzoColombani](https://www.youtube.com/@LorenzoColombani), since January
 2025). The pieces that matter for this record:
 
+- [*OpenBots Next: the release video*](https://youtu.be/oIXEZRL-zS4) (2026) — the v1
+  launch: a team of AI bots on your own Claude plan, and a card before every
+  consequential step.
+- [*The Ring That Talks to My AI*](https://www.youtube.com/watch?v=uz1sQgzz27o)
+  (2026) — Claude Code driven from a ring: dictation in, spoken answers out.
+- [*I Went Way Too Far With My Lightsaber*](https://www.youtube.com/watch?v=qYdvJwaupsE)
+  (2026) — SaberLab, demonstrated on the real saber.
 - [*I Built a Custom AI Voice Mode (And It Roasted My Hardware)*](https://www.youtube.com/watch?v=HyRokjNdZvA)
   (2026) — a spoken interface for a command-line AI coding tool, built on a
   foot pedal, then a mouse wheel.
@@ -277,8 +307,9 @@ Latest first.
   & Trading Operations) — [makeworkingfun.com](https://www.makeworkingfun.com/home)
   — one of **six public client recommendations** ([all on LinkedIn](https://www.linkedin.com/in/locolombani/details/recommendations/))
 - *AI, Applied.*: 87 use cases · 15 contributors · 94+ tools, live and public.
-- OpenBots: 1,494 automated tests at v0.5.0 (read from the repository at
-  build time; the number moves).
+- OpenBots Next: 3,196 automated tests at v1.0.2, no live calls, run in CI on
+  macOS 15 and 26 (read from the public repository on 28 September 2026; the
+  number moves).
 
 ## What clients say
 
