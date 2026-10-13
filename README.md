@@ -2,18 +2,19 @@
 
 **Professional entity document**
 
-*Version 2.1 · Updated September 28, 2026 — OpenBots Next v1, The Workshop,
-SaberLab and the work since August added; every fact checked against the locked
-record behind [lorenzocolombani.com](https://lorenzocolombani.com). Version 2.0
-(September 6, 2026) and 1.2 are in the history of this repository.*
+*Version 2.2 · Updated October 2026 — lorenzocolombani.com is now Lorenzo's AI
+Store (AI coaching, team training & custom tools) and the portfolio is its
+Showroom; every fact checked against his locked record. Versions 2.1 (September
+28, 2026), 2.0 and 1.2 are in the history of this repository.*
 
 ---
 
-Lorenzo Colombani is an AI product designer and developer. He makes humans
-and machines intelligible to each other — AI products, learning systems,
-interactive web experiences — with the work running on the page at
-[lorenzocolombani.com](https://lorenzocolombani.com). He is based in Hannover,
-Germany, registered as a freelancer there, and works in English and French.
+Lorenzo Colombani is an AI trainer and product builder. He makes humans and
+machines intelligible to each other: he helps people and teams put AI to work
+on real tasks, and builds custom tools when they need more. His offers are at
+[lorenzocolombani.com](https://lorenzocolombani.com), the work behind them in its
+[Showroom](https://lorenzocolombani.com/portfolio/). He works with clients in
+France and internationally, online, in English or French.
 
 *This page is his entity document: the single, current, verifiable record of
 what he does, what he has built, and where everything else lives. If a claim
@@ -23,16 +24,19 @@ here matters to you, it links to something you can check.*
 
 ## What he does
 
-**Designer & Developer — AI products · learning systems · interactive web
-experiences.** Three things you can hire him for:
+**AI coaching, team training & custom tools.** Every engagement starts from a
+real task, not a generic course: work through it together, do it again
+independently, keep the method — instructions, templates or software.
 
-- **Build.** AI tools for your team: working software, designed with the
-  people who will use it. The tool takes the repetitive work; they keep the
-  judgment.
-- **Train.** Live workshops and coaching, plus AI-powered interactive courses
-  that a team keeps using after he has left.
-- **Retain.** Available on retainer, for a few clients at a time. You do not
-  need him to run what he built; keep him on to keep improving it.
+- **Coaching.** One-to-one sessions on the person's own work, from a single
+  focused session to an AI workspace set up for them.
+- **Team training.** Half-day workshops, and a four-week programme that
+  improves three recurring workflows and trains the people who run them.
+- **Custom tools.** A focused build for one recurring job, with an agreed
+  acceptance test, source code and a guide the client keeps.
+- **Ongoing support.** Reserved monthly hours of coaching and review.
+
+A free 30-minute fit call comes first. Prices are on the site.
 
 How the software gets made: he designs the product and makes the technical
 calls — architecture, stack, interactions — then directs AI coding tools that
@@ -68,12 +72,12 @@ The work is the argument. In the order the portfolio uses:
 
 | Work | What it is | Live |
 |---|---|---|
-| **The Workshop** (in progress) | A portfolio you walk into: a real-time 3D world in the browser — an ivory pavilion over the ocean, mountains behind, the sea and the ridges drawn live — where the work opens when you touch it. Three.js. An unfinished, working prototype, open anyway. Built by directing Codex. | [Case study](https://lorenzocolombani.com/work/the-workshop/) |
-| **OpenBots Next** (v1, 26 September 2026; v1.0.2, 27 September) | Claude as a team of named teammates you hire, brief and fence yourself — a native macOS app. Bots work in their own folders, search and fetch the web, run code, hire helpers, hand work to each other and use the Mac's apps through connectors; every ability is off until switched on per bot, and every consequential step waits on a card you approve. Runs on the user's own Claude Pro or Max plan through Claude Code; no API key, no accounts, no telemetry. Swift 6, SwiftUI, the system SQLite, MIT, free. The installer builds it on the user's Mac. Earlier: v0.1.0 on 17 August 2026 under the working name Agency; v0.5.0, the ground-up rebuild, on 1 September. Some team features were shaped by studying xAI's Grok Bot app (credited in the repository). Used by its author; no user claims. | [Repo](https://github.com/LorenzoColombani/openbots) · [Case study](https://lorenzocolombani.com/work/openbots/) · [Release video](https://youtu.be/oIXEZRL-zS4) |
-| **Data Vault Foundations** | A 14-chapter interactive learning platform on Data Vault 2.1 — architecture, SQL, dbt, EU compliance (GDPR, the AI Act, a compliance self-test), Python — with quests, feedback and hands-on exercises. His copyright; certification and enterprise Data Vault work point to Scalefree. | [Open](https://datavault-foundations.netlify.app) · [Case study](https://lorenzocolombani.com/work/data-vault-foundations/) |
-| **TVA Case File** | A motion-and-typography case file in the language of the *Loki* title sequence: seven "deviations," one timeline, running in the browser. | [Open](https://tva-case-file-l1607.netlify.app) · [Case study](https://lorenzocolombani.com/work/tva-case-file/) |
-| **"AI, Applied."** | 87 real-world AI use cases from 15 contributors, 94+ tools (live counts, September 2026; the site grows). He convened the contributors and built the site for the Wharton Alumni AI Studio, an alumni nonprofit. Astro, React, GSAP. | [Open](https://wharton-ai-use-cases.netlify.app) · [Case study](https://lorenzocolombani.com/work/ai-applied/) |
-| **The Bridge** | An interactive web film — Three.js portals, GLSL, GSAP. A 4.5-minute proof that a method can be a place you walk through. Score: Kevin MacLeod (CC BY). | [Open](https://the-bridge-lc.netlify.app) · [Case study](https://lorenzocolombani.com/work/the-bridge/) |
+| **The Workshop** (in progress) | A portfolio you walk into: a real-time 3D world in the browser — an ivory pavilion over the ocean, mountains behind, the sea and the ridges drawn live — where the work opens when you touch it. Three.js. An unfinished, working prototype, open anyway. Built by directing Codex. | [Case study](https://lorenzocolombani.com/portfolio/works/the-workshop.html) |
+| **OpenBots Next** (v1, 26 September 2026; v1.0.2, 27 September) | Claude as a team of named teammates you hire, brief and fence yourself — a native macOS app. Bots work in their own folders, search and fetch the web, run code, hire helpers, hand work to each other and use the Mac's apps through connectors; every ability is off until switched on per bot, and every consequential step waits on a card you approve. Runs on the user's own Claude Pro or Max plan through Claude Code; no API key, no accounts, no telemetry. Swift 6, SwiftUI, the system SQLite, MIT, free. The installer builds it on the user's Mac. Earlier: v0.1.0 on 17 August 2026 under the working name Agency; v0.5.0, the ground-up rebuild, on 1 September. Some team features were shaped by studying xAI's Grok Bot app (credited in the repository). Used by its author; no user claims. | [Repo](https://github.com/LorenzoColombani/openbots) · [Case study](https://lorenzocolombani.com/portfolio/works/openbots.html) · [Release video](https://youtu.be/oIXEZRL-zS4) |
+| **Data Vault Foundations** | A 14-chapter interactive learning platform on Data Vault 2.1 — architecture, SQL, dbt, EU compliance (GDPR, the AI Act, a compliance self-test), Python — with quests, feedback and hands-on exercises. His copyright; certification and enterprise Data Vault work point to Scalefree. | [Open](https://datavault-foundations.netlify.app) · [Case study](https://lorenzocolombani.com/portfolio/works/data-vault-foundations.html) |
+| **TVA Case File** | A motion-and-typography case file in the language of the *Loki* title sequence: seven "deviations," one timeline, running in the browser. | [Open](https://tva-case-file-l1607.netlify.app) · [Case study](https://lorenzocolombani.com/portfolio/tva-case-file.html) |
+| **"AI, Applied."** | 87 real-world AI use cases from 15 contributors, 94+ tools (live counts, September 2026; the site grows). He convened the contributors and built the site for the Wharton Alumni AI Studio, an alumni nonprofit. Astro, React, GSAP. | [Open](https://wharton-ai-use-cases.netlify.app) · [Case study](https://lorenzocolombani.com/portfolio/works/ai-applied.html) |
+| **The Bridge** | An interactive web film — Three.js portals, GLSL, GSAP. A 4.5-minute proof that a method can be a place you walk through. Score: Kevin MacLeod (CC BY). | [Open](https://the-bridge-lc.netlify.app) · [Case study](https://lorenzocolombani.com/portfolio/the-bridge.html) |
 
 Smaller tools, free and live:
 [exam-pacer](https://lorenzocolombani.com/exam-pacer/) (zero-dependency
@@ -95,7 +99,7 @@ V2.2, ProffieOS 7.7): it shows every preset, sound and blade on the saber,
 remixes them into a new sound font without copying a sound, and writes it to
 the hilt. Not released; shown in an 11-minute demo on the real saber
 ([video](https://www.youtube.com/watch?v=qYdvJwaupsE) ·
-[case study](https://lorenzocolombani.com/work/saberlab/)).
+[case study](https://lorenzocolombani.com/portfolio/works/saberlab.html)).
 
 The tools he builds with: his own Claude Code skills — among them a pipeline
 that turns a design book into a tested skill (Norman's *The Design of Everyday
@@ -253,16 +257,18 @@ they show.
 
 Latest first.
 
-- **Designer & Developer — Independent practice** (Einzelunternehmen,
-  registered in Hannover on 4 August 2026 — present). AI products, learning
-  systems, interactive web experiences; invoices from Germany.
+- **AI trainer and product builder — Independent practice**
+  (Einzelunternehmen registered in Germany on 4 August 2026 — present). AI
+  coaching, team training and custom tools, offered through his online store,
+  Lorenzo's AI Store.
 - **Business Intelligence Consultant (intern), Scalefree International GmbH,
   Hanover** (June–August 2026) — a three-month internship at a Data Vault
   consultancy: source systems into the enterprise data warehouse on Google
   BigQuery, Data Vault 2.1 modelling, technical articles and presentations.
-- **Board Member, Wharton Alumni AI Studio** (alumni nonprofit) — convened the
-  contributors and built the community's public use-case site, *AI, Applied.*
-  (above); founded and leads its AI – Law and Regulation think-tank.
+- **Board Member, Wharton Alumni AI Studio** (alumni nonprofit, June 2025 –
+  September 2026) — convened the contributors and built the community's public
+  use-case site, *AI, Applied.* (above); founded and led its AI – Law and
+  Regulation think-tank.
 - **Community lead, Paris OpenAI Forum** (2025–2026) — launched the Forum's
   first Meet & Greet in France with a five-person team; participants from
   Google, Inria, Rothschild AM, MIT Sloan; about 90% attendance.
@@ -356,7 +362,8 @@ more than one surface has one source.
 |---|---|
 | **Entity document** | github.com/LorenzoColombani/lorenzo-colombani *(this page)* |
 | **GitHub front door** | [github.com/LorenzoColombani](https://github.com/LorenzoColombani) |
-| **Portfolio** | [lorenzocolombani.com](https://lorenzocolombani.com) |
+| **Store** | [lorenzocolombani.com](https://lorenzocolombani.com) — offers and a free 30-minute call |
+| **Showroom** | [lorenzocolombani.com/portfolio](https://lorenzocolombani.com/portfolio/) — the work behind the offers |
 | **Work archive (2022–2026)** | [makeworkingfun.com](https://www.makeworkingfun.com) |
 | **Writing** | [medium.com/@lorenzocolombani](https://medium.com/@lorenzocolombani) |
 | **Video** | [youtube.com/@LorenzoColombani](https://www.youtube.com/@LorenzoColombani) |
@@ -365,4 +372,4 @@ more than one surface has one source.
 | **Contact** | lorenzo.colombani@live.fr |
 
 **Languages:** French (native) · English (fluent — TOEFL 118/120) · Italian
-(limited working proficiency). Based in Germany; no German-fluency claim.
+(limited working proficiency). Sessions in English or French; no German-fluency claim.
