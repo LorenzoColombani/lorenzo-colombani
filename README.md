@@ -2,18 +2,19 @@
 
 **Professional entity document**
 
-*Version 2.2 · Updated October 2026 — lorenzocolombani.com is now Lorenzo's AI
-Store (AI coaching, team training & custom tools) and the portfolio is its
-Showroom; every fact checked against his locked record. Versions 2.1 (September
-28, 2026), 2.0 and 1.2 are in the history of this repository.*
+*Version 2.3 · Updated 15 October 2026 — Designer & Developer · AI Enablement:
+lorenzocolombani.com offers three ways to work together and the portfolio is its
+Showroom; every fact checked against his locked record. Versions 2.2 (13 October
+2026), 2.1, 2.0 and 1.2 are in the history of this repository.*
 
 ---
 
-Lorenzo Colombani is an AI trainer and product builder. He makes humans and
-machines intelligible to each other: he helps people and teams put AI to work
-on real tasks, and builds custom tools when they need more. His offers are at
-[lorenzocolombani.com](https://lorenzocolombani.com), the work behind them in its
-[Showroom](https://lorenzocolombani.com/portfolio/). He works with clients in
+Lorenzo Colombani is a designer and developer — an AI product designer and
+developer who works under the name AI Enablement. He makes humans and machines
+intelligible to each other: he helps people learn to use AI, businesses put it
+into practice, and individuals and teams delegate work to automations and AI
+agents. His site is [lorenzocolombani.com](https://lorenzocolombani.com), the
+work behind it in its [Showroom](https://lorenzocolombani.com/portfolio/). He works with clients in
 France and internationally, online, in English or French.
 
 *This page is his entity document: the single, current, verifiable record of
@@ -24,19 +25,22 @@ here matters to you, it links to something you can check.*
 
 ## What he does
 
-**AI coaching, team training & custom tools.** Every engagement starts from a
-real task, not a generic course: work through it together, do it again
-independently, keep the method — instructions, templates or software.
+**AI Enablement — three paths.**
 
-- **Coaching.** One-to-one sessions on the person's own work, from a single
-  focused session to an AI workspace set up for them.
-- **Team training.** Half-day workshops, and a four-week programme that
-  improves three recurring workflows and trains the people who run them.
-- **Custom tools.** A focused build for one recurring job, with an agreed
-  acceptance test, source code and a guide the client keeps.
-- **Ongoing support.** Reserved monthly hours of coaching and review.
+- **Learn to use AI.** For people new to AI, or who tried it without getting
+  much from it: where it can help, how to get past disappointing answers, what
+  to trust and what to check. They leave with a setup they understand and the
+  skills to keep going on their own.
+- **AI for businesses.** A clear direction, practical skills and shared rules
+  for using AI in everyday work: a plan for the business, hands-on team
+  training and support putting it into practice.
+- **Automation and AI agents.** Automations and AI assistants built and tested
+  on the client's own tasks, with clear rules for what can run on its own and
+  what needs approval, a clear handover and follow-up.
 
-A free 30-minute fit call comes first. Prices are on the site.
+Every engagement follows the same method: the client's stated needs, then a
+diagnosis and proposal, the agreed implementation, and follow-ups one and three
+months later. There is no online checkout; work is agreed directly.
 
 How the software gets made: he designs the product and makes the technical
 calls — architecture, stack, interactions — then directs AI coding tools that
@@ -257,10 +261,10 @@ they show.
 
 Latest first.
 
-- **AI trainer and product builder — Independent practice**
+- **Designer & Developer · AI Enablement — Independent practice**
   (Einzelunternehmen registered in Germany on 4 August 2026 — present). AI
-  coaching, team training and custom tools, offered through his online store,
-  Lorenzo's AI Store.
+  learning, AI adoption for businesses, and automations and AI agents, offered
+  through [lorenzocolombani.com](https://lorenzocolombani.com).
 - **Business Intelligence Consultant (intern), Scalefree International GmbH,
   Hanover** (June–August 2026) — a three-month internship at a Data Vault
   consultancy: source systems into the enterprise data warehouse on Google
@@ -362,12 +366,12 @@ more than one surface has one source.
 |---|---|
 | **Entity document** | github.com/LorenzoColombani/lorenzo-colombani *(this page)* |
 | **GitHub front door** | [github.com/LorenzoColombani](https://github.com/LorenzoColombani) |
-| **Store** | [lorenzocolombani.com](https://lorenzocolombani.com) — offers and a free 30-minute call |
-| **Showroom** | [lorenzocolombani.com/portfolio](https://lorenzocolombani.com/portfolio/) — the work behind the offers |
+| **Site** | [lorenzocolombani.com](https://lorenzocolombani.com) — AI Enablement: three ways to work together |
+| **Showroom** | [lorenzocolombani.com/portfolio](https://lorenzocolombani.com/portfolio/) — the work behind it |
 | **Work archive (2022–2026)** | [makeworkingfun.com](https://www.makeworkingfun.com) |
 | **Writing** | [medium.com/@lorenzocolombani](https://medium.com/@lorenzocolombani) |
 | **Video** | [youtube.com/@LorenzoColombani](https://www.youtube.com/@LorenzoColombani) |
-| **Research** | [Academia.edu](https://paris-sorbonne.academia.edu/LorenzoColombani) · [ResearchGate](https://www.researchgate.net/profile/Lorenzo-Colombani) |
+| **Research** | [ORCID 0009-0009-4207-4300](https://orcid.org/0009-0009-4207-4300) · [Academia.edu](https://paris-sorbonne.academia.edu/LorenzoColombani) · [ResearchGate](https://www.researchgate.net/profile/Lorenzo-Colombani) |
 | **LinkedIn** | [linkedin.com/in/locolombani](https://www.linkedin.com/in/locolombani/) |
 | **Contact** | lorenzo.colombani@live.fr |
 
