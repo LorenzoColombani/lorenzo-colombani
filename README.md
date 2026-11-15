@@ -55,7 +55,7 @@ finished it.*
 Background in learning design (Chief Learning Officer at MCR Groupe until
 2022), French law (CAPA, the French bar's professional aptitude certificate;
 LL.M. from Penn as a Fulbright Scholar), court mediation (listed mediator at
-the Paris Court of Appeal) and negotiation (one of three Senior Instructors of
+the Paris Court of Appeal) and negotiation (one of two Senior Instructors of
 Stuart Diamond's *Getting More* method, globally). Earlier: philosophy of
 science at the Sorbonne, research and writing. That background explains the
 work; it is not the product. Detail and witnesses: [Credentials](#credentials--verify-them-yourself)
@@ -249,7 +249,7 @@ they show.
 | MPhil, Université Paris-Sorbonne — Philosophy of Science (2014) | [Cairn author record](https://shs.cairn.info/publications-de-Lorenzo-Colombani--679338?lang=fr) |
 | CAPA — French bar professional aptitude certificate, EFB (2018) | [Background page](https://lorenzocolombani.com/background/) |
 | Mediator, Paris Court of Appeal — civil & commercial lists (2024–2026) | [Official directory, ANNUMED May 2026 (PDF)](https://www.cours-appel.justice.fr/sites/default/files/2026-05/ANNUMED%20MAJ%2015%20mai%202026.pdf) |
-| Senior Instructor, Getting More — one of three globally | [Getting More instructors](https://gettingmore.com/instructors) |
+| Senior Instructor, Getting More — one of two globally | [Getting More instructors](https://gettingmore.com/instructors) |
 | Certified Data Vault 2.1 Practitioner (CDVP2.1), Scalefree — certificate ID 187069835, valid to 2 July 2029 | Certificate on file; [Background page](https://lorenzocolombani.com/background/) |
 | Data Warehouse — The Ultimate Guide (2026) | [Udemy certificate](https://ude.my/UC-56a87968-c70a-4cb6-b9ac-cf6da507b69e) |
 | Complete SQL & Databases Bootcamp, 24.5h (2026) | [Udemy certificate](https://ude.my/UC-b636472b-37d9-43b8-b93e-89ada71ffd0e) |
@@ -276,7 +276,7 @@ Latest first.
 - **Community lead, Paris OpenAI Forum** (2025–2026) — launched the Forum's
   first Meet & Greet in France with a five-person team; participants from
   Google, Inria, Rothschild AM, MIT Sloan; about 90% attendance.
-- **Senior Instructor, Getting More** — one of three globally, teaching
+- **Senior Instructor, Getting More** — one of two globally, teaching
   Stuart Diamond's negotiation method.
 - **Founder, Make Working Fun SAS** (2022–2026; company dormant since 2025) —
   registered French company (RCS Nanterre 917 652 745). Delivered negotiation
